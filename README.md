@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Akash-0310/Akash-0310" align="center" style="width: 100%" />
+<img src="https://giphy.com/gifs/madagascar-peng-pengu-vqxviVfqGAa14SgeiC" align="center" style="width: 100%" />
 </div>  
   
 
@@ -85,6 +85,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMagma&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
 
 
   
